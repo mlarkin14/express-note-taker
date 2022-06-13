@@ -41,6 +41,8 @@ Open a browser and navigate to Heruko
 <br />
 
 ## Screenshot
+<img width="769" alt="Screen Shot 2022-06-13 at 12 50 19 PM" src="https://user-images.githubusercontent.com/30247798/173404632-a73df474-016e-427f-8642-8c5402747c29.png">
+<img width="858" alt="Screen Shot 2022-06-13 at 12 52 34 PM" src="https://user-images.githubusercontent.com/30247798/173405039-21235b41-d996-4635-bdcd-26ca378d8b4a.png">
 
 <br />
 
