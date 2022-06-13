@@ -5,14 +5,6 @@
   ## Description
   A Note Taker application that can be used to write and save notes. This application uses an Express.js back end and saves and retrieves note data from a JSON file. This application is an example of api integration using Express.js.
 
-  ## Table of Contents
-  * [Installation](##Installation)
-  * [Usage](##Usage)
-  * [Screenshot](##Screenshot)
-  * [Technologies](##Technologies)
-  * [License](##License)
-  * [Questions](##Questions)
-  
   ## Installation
   ```shell
     npm install
